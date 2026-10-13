@@ -1,8 +1,8 @@
-# 10Alytics Assignment 1: Linux Fundamentals
+# 10Linux Fundamentals
 
 ## Project Overview
 
-This project documents my practical work for **10Alytics Assignment 1: Linux Fundamentals**. The assignment focuses on using Kali Linux to explore basic system information, examine memory and filesystem usage, and test network connectivity using the Linux command line.
+This project documents my practical work for ** Linux Fundamentals**. The assignment focuses on using Kali Linux to explore basic system information, examine memory and filesystem usage, and test network connectivity using the Linux command line.
 
 Through this exercise, I practiced essential Linux commands and learned how to interpret system information and basic network diagnostic results.
 
